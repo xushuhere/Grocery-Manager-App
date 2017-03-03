@@ -1,0 +1,7 @@
+#Sat Oct 22 00:09:48 CDT 2016
+base.0=/Users/shuxu/CompSci/CS6300_SDP/6300Fall16Team16/GroupProject/GLM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f769ffa808042b9ea6a6ab4952b474b8058b8cc0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/shuxu/CompSci/CS6300_SDP/6300Fall16Team16/GroupProject/GLM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e02fd0dd09536a7a57ddc58b32aba326fe2220c/classes.dex
+base.1=/Users/shuxu/CompSci/CS6300_SDP/6300Fall16Team16/GroupProject/GLM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4e02fd0dd09536a7a57ddc58b32aba326fe2220c
+file.0=/Users/shuxu/CompSci/CS6300_SDP/6300Fall16Team16/GroupProject/GLM/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f769ffa808042b9ea6a6ab4952b474b8058b8cc0/classes.dex
